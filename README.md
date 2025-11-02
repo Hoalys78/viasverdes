@@ -19,7 +19,7 @@ O dashboard foi construído para fornecer uma visão clara e interativa dos prin
  
 ### KPIs e Análises da Página Principal
 
-[cite_start]A análise da página principal, referente ao período de 01/01/2025 a 27/12/2025[cite: 3], destaca os seguintes pontos:
+A análise da página principal, referente ao período de 01/01/2025 a 27/12/2025[cite: 3], destaca os seguintes pontos:
 
 **Indicadores Principais (Cards):**
 * **Receita Total:** R$ 7.961 
@@ -27,26 +27,25 @@ O dashboard foi construído para fornecer uma visão clara e interativa dos prin
 * **Usuários Únicos:** 612 
 
 **Visualizações:**
-1.  [cite_start]**Receita X Viagens (Gráfico Combinado):** [cite: 6, 11]
-    * Monitora a tendência de receita (linha) e o volume de viagens (colunas) ao longo dos meses.
-    * Permite identificar rapidamente a sazonalidade e a correlação entre o faturamento e o uso. [cite_start]Por exemplo, janeiro teve o maior pico de receita (R$853,62) [cite: 23] [cite_start]e o maior número de viagens (108)[cite: 16].
+1.  **Receita X Viagens (Gráfico Combinado):**     * Monitora a tendência de receita (linha) e o volume de viagens (colunas) ao longo dos meses.
+    * Permite identificar rapidamente a sazonalidade e a correlação entre o faturamento e o uso. Por exemplo, janeiro teve o maior pico de receita (R$853,62) e o maior número de viagens (108).
 
-2.  [cite_start]**Distribuição por Gênero (Gráfico de Rosca):** [cite: 33]
+2.  **Distribuição por Gênero (Gráfico de Rosca):** 
     * Mostra a segmentação dos usuários.
-    * [cite_start]Os dados indicam uma distribuição equilibrada: Feminino (34,7%) [cite: 51][cite_start], Masculino (33,9%) [cite: 32] [cite_start]e Outro (31,4%)[cite: 34].
+    * Os dados indicam uma distribuição equilibrada: Feminino (34,7%) , Masculino (33,9%) e Outro (31,4%).
 
-3.  [cite_start]**Viagens por Tipo de Plano (Gráfico de Barras):** [cite: 7]
-    * [cite_start]Compara o volume de viagens entre os diferentes tipos de assinatura (Avulso [cite: 8][cite_start], Mensal [cite: 47][cite_start], Trimestral[cite: 10], etc.).
+3.  **Viagens por Tipo de Plano (Gráfico de Barras):** 
+    * Compara o volume de viagens entre os diferentes tipos de assinatura (Avulso, Mensal, Trimestral, etc.).
     * Essencial para entender quais planos são mais populares e direcionar estratégias de marketing e retenção.
 
-4.  [cite_start]**Top 5 Pontos de Partidas (Gráfico de Barras):** [cite: 49]
+4.  **Top 5 Pontos de Partidas (Gráfico de Barras):** 
     * Identifica os locais com maior número de viagens iniciadas.
-    * [cite_start]Locais como "Centro Cívico" [cite: 50][cite_start], "Centro" [cite: 52] [cite_start]e "Avenida Paulista" [cite: 54] estão entre os mais movimentados, fornecendo insights valiosos para a alocação da frota.
+    * Locais como "Centro Cívico" , "Centro"  e "Avenida Paulista"  estão entre os mais movimentados, fornecendo insights valiosos para a alocação da frota.
 
 ### Filtros Interativos
 O relatório permite a filtragem dinâmica por:
-* [cite_start]**Período:** Seleção de intervalo de datas[cite: 2].
-* [cite_start]**Tipo de Plano:** Análise por planos Avulso, Mensal, Semestral, Trimestral e Anual[cite: 8, 47, 48, 10, 45].
+* **Período:** Seleção de intervalo de datas.
+* **Tipo de Plano:** Análise por planos Avulso, Mensal, Semestral, Trimestral e Anual.
 
 ## 🛠️ Ferramentas e Tecnologias
 
