@@ -22,9 +22,9 @@ O dashboard foi construído para fornecer uma visão clara e interativa dos prin
 [cite_start]A análise da página principal, referente ao período de 01/01/2025 a 27/12/2025[cite: 3], destaca os seguintes pontos:
 
 **Indicadores Principais (Cards):**
-* [cite_start]**Receita Total:** R$ 7.961 [cite: 1]
-* [cite_start]**Total de Viagens:** 1.000 [cite: 4]
-* [cite_start]**Usuários Únicos:** 612 [cite: 5]
+* [cite_start]**Receita Total:** R$ 7.961 
+* [cite_start]**Total de Viagens:** 1.000 
+* [cite_start]**Usuários Únicos:** 612 
 
 **Visualizações:**
 1.  [cite_start]**Receita X Viagens (Gráfico Combinado):** [cite: 6, 11]
